@@ -1,0 +1,4 @@
+The project is a help for students by  
+establishing a website that increase understanding
+ in CS subjects. 
+To manage the process of learning in CS in a professional way.
